@@ -1,0 +1,2 @@
+1. docker build -t docker-porichoy-backend .
+2. docker run --name dn-porichoy-backend -p 3000:3000 -d docker-porichoy-backend
